@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">仓储信息化管理系统</string>
+    <string name="login1">登    陆</string>
+    <string name="Account1">账   号</string>
+    <string name="Passedword1">密   码</string>
+    <string name="Ahint">请输入账号</string>
+    <string name="Phint">请输入密码</string>
+    <string name="welcome">欢迎！</string>
+    <string name="tips">输入查询的物品名</string>
+    <string name="cfmsh">查   询</string>
+</resources>
